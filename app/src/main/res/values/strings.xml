@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationFinder</string>
+    <string name="warning">Warning</string>
+    <string name="gps_warning_massage">GPS is not enabled. Do You want to enable it?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
